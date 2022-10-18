@@ -5,7 +5,6 @@ This kubernetes configuration set up shows how to use config map, secrets, servi
   - minikube to creates a VM on your local machine and deploys a simple cluster containing only one node
     - First we will be needing kubectl installed on our local machine, This can be downloaded via the link - [kubernetes](https://kubernetes.io/docs/tasks/tools/)
     - Download the minikube set-up via the link - [minikube](https://minikube.sigs.k8s.io/docs/start/)
-    - Download 
 
   All container used are from docker images
 
